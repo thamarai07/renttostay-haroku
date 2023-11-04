@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Add this to your CSS file */
+/* #sidebarContent {
+    margin-top: 70px;
+    position: fixed;
+    top: 0;
+    left: -300px;
+    width: 342px; 
+    height: 100%;
+
+    transition: left 0.3s ease-in-out; 
+} */
